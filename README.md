@@ -1,16 +1,15 @@
-# Privacy Policy for AniQuotes
+## Privacy Policy for AniQuotes
+*Last Updated: July 06, 2025*
 
-## Last Updated: July 06, 2025
-
-## 1. Introduction
+### 1. Introduction
 
 Welcome to AniQuotes ("we", "our", or "us"). We are committed to protecting your privacy and handling your data in an open and transparent manner. This Privacy Policy explains how we collect, use, and disclose information when you use our API services.
 
 **By using the AniQuotes API, you agree to the collection and use of information in accordance with this policy.**
 
-## 2. Information We Collect
+### 2. Information We Collect
 
-### 2.1. Minimal Data Collection
+#### 2.1. Minimal Data Collection
 We collect minimal information necessary to operate our API services effectively:
 
 - **API Request Data**: We log API request metadata including:
@@ -26,7 +25,7 @@ We collect minimal information necessary to operate our API services effectively
   - Error rates
   - Usage patterns
 
-### 2.2. What We Do NOT Collect
+#### 2.2. What We Do NOT Collect
 We do **not** collect:
 - Personal identification information (names, emails, addresses)
 - Payment information
@@ -34,7 +33,7 @@ We do **not** collect:
 - Content of API requests beyond metadata
 - User browsing history outside our API
 
-## 3. How We Use Your Information
+### 3. How We Use Your Information
 
 We use collected information for the following purposes:
 
@@ -47,13 +46,13 @@ We use collected information for the following purposes:
 | Analytics | To understand usage patterns and improve our services |
 | Legal Compliance | To comply with legal obligations |
 
-## 4. Data Storage and Retention
+### 4. Data Storage and Retention
 
 - **Log Data**: We retain API request logs for **30 days** for operational and security purposes.
 - **Anonymization**: IP addresses are anonymized after 7 days by removing the last octet (e.g., 192.168.1.XXX).
 - **Aggregate Data**: We retain aggregate, non-identifiable usage statistics indefinitely for analytical purposes.
 
-## 5. Data Sharing and Disclosure
+### 5. Data Sharing and Disclosure
 
 We do not sell, trade, or rent your personal information to third parties. Limited information may be shared with:
 
@@ -61,7 +60,7 @@ We do not sell, trade, or rent your personal information to third parties. Limit
 - **Legal Requirements**: We may disclose information when required by law or to protect our rights.
 - **Business Transfers**: In the event of a merger or acquisition, API operations may be transferred.
 
-## 6. Security Measures
+### 6. Security Measures
 
 We implement appropriate technical and organizational measures to protect your information:
 
@@ -71,7 +70,7 @@ We implement appropriate technical and organizational measures to protect your i
 - Rate limiting to prevent abuse
 - Regular software updates and security patches
 
-## 7. Third-Party Services
+### 7. Third-Party Services
 
 Our API documentation may include links to third-party services:
 
@@ -81,15 +80,15 @@ Our API documentation may include links to third-party services:
 
 We are not responsible for the privacy practices of these third-party services.
 
-## 8. Children's Privacy
+### 8. Children's Privacy
 
 Our API is not directed to individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
 
-## 9. International Data Transfers
+### 9. International Data Transfers
 
 As a global service, your information may be transferred to and maintained on servers located outside of your country of residence. We ensure appropriate safeguards are in place for such transfers.
 
-## 10. Your Rights
+### 10. Your Rights
 
 Depending on your jurisdiction, you may have certain rights regarding your information:
 
@@ -102,13 +101,13 @@ Depending on your jurisdiction, you may have certain rights regarding your infor
 
 To exercise these rights, please contact us at aniquotes@gmail.com.
 
-## 11. Changes to This Privacy Policy
+### 11. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes are effective when posted.
 
-## 12. Contact Us
+### 12. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
