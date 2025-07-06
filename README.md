@@ -99,7 +99,7 @@ Depending on your jurisdiction, you may have certain rights regarding your infor
 - Right to data portability
 - Right to object to processing
 
-To exercise these rights, please contact us at aniquotes@gmail.com.
+To exercise these rights, please contact us at aniquotesapi@gmail.com.
 
 ### 11. Changes to This Privacy Policy
 
@@ -111,7 +111,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- Email: aniquotes@gmail.com
+- Email: aniquotesapi@gmail.com
 - GitHub Issues: [AniQuotesAPI](https://github.com/Shineii86/AniQuotesAPI/issues)
 - Postal Address: [Not applicable - digital service only]
 
@@ -119,7 +119,7 @@ If you have any questions about this Privacy Policy, please contact us:
 
 <div align="center">
   
-**AniQuotes** For inquiries or collaborations
+**[AniQuotes](https://github.com/AniQuotes)** For inquiries or collaborations
      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
